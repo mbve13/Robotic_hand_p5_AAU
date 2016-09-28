@@ -1,1 +1,1 @@
-# robtic_hand_p5
+# Psoc_robotic_hand
